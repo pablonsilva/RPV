@@ -1,5 +1,5 @@
 # RPV
-RPV's code - Version submitted to the Oxford Bioinformatics. 
+RPV's supplementary files submitted to the Applied Intelligence. 
 
 Manuscript's link will be available after acceptance.
 
